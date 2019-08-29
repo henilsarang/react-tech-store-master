@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ![](Capture.PNG)
+![](Capture1.PNG)
+![](Capture2.PNG)
 
 ## Available Scripts
 
